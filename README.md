@@ -48,6 +48,16 @@ For detailed project information, refer to the [Project Synopsis (PDF)](./docs/s
 - **Jupyter Notebook:** For interactive exploratory analysis.
 
 ---
+## 🙏 Credits
+
+This project is being developed as part of an academic research initiative under the Department of Electrical and Electronics Engineering, BMS Institute of Technology & Management.
+
+Special thanks to our guide Dr. Prashanth A Athavle for their valuable insights and support.
+
+Developed by:
+
+- Sanjay R [GitHub: [@Sanjay4110](https://github.com/Sanjay4110)]
+
 
 ## 📁 Project Structure
 
@@ -61,14 +71,6 @@ eeg-brain-computer-interface/
 └── src/                           # Source code for signal processing and ML
     └── preprocessing.py           # Preprocessing routines for EEG data
 
-## 🙏 Credits
 
-This project is being developed as part of an academic research initiative under the Department of Electrical and Electronics Engineering, BMS Institute of Technology & Management.
-
-Special thanks to our guide Dr. Prashanth A Athavle for their valuable insights and support.
-
-Developed by:
-
-- Sanjay R [GitHub: [@Sanjay4110](https://github.com/Sanjay4110)]
 
 
