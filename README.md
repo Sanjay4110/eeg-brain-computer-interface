@@ -60,3 +60,15 @@ eeg-brain-computer-interface/
 │   └── exploratory_analysis.ipynb  # Example analysis and visualization code
 └── src/                           # Source code for signal processing and ML
     └── preprocessing.py           # Preprocessing routines for EEG data
+
+## 🙏 Credits
+
+This project is being developed as part of an academic research initiative under the Department of Electrical and Electronics Engineering, BMS Institute of Technology & Management.
+
+Special thanks to our guide Dr. Prashanth A Athavle for their valuable insights and support.
+
+Developed by:
+
+- Sanjay R [GitHub: [@Sanjay4110](https://github.com/Sanjay4110)]
+
+
